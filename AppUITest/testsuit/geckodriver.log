@@ -1,0 +1,34 @@
+1533653636365	geckodriver	INFO	geckodriver 0.19.1
+1533653636381	geckodriver	INFO	Listening on 127.0.0.1:61917
+1533653639485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.ac8eD6YVnHog"
+1533653644798	Marionette	INFO	Listening on port 61930
+1533653645277	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1533653685826	geckodriver	INFO	geckodriver 0.19.1
+1533653685859	geckodriver	INFO	Listening on 127.0.0.1:62043
+1533653688800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.WOXWgPIHfy8p"
+1533653692878	Marionette	INFO	Listening on port 62056
+1533653693360	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1533653734356	geckodriver	INFO	geckodriver 0.19.1
+1533653734371	geckodriver	INFO	Listening on 127.0.0.1:62183
+1533653737409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.nxbWtLg5oyuP"
+1533653740773	Marionette	INFO	Listening on port 62196
+1533653741074	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.maximizeWindow/windowSizeChange/< :: line 3029"  data: no]
+GeckoDriver.prototype.maximizeWindow/windowSizeChange/<@chrome://marionette/content/driver.js:3029:9
+evalFn@chrome://marionette/content/sync.js:97:7
+
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

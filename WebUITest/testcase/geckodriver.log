@@ -1,0 +1,331 @@
+1534065565838	geckodriver	INFO	geckodriver 0.19.1
+1534065565853	geckodriver	INFO	Listening on 127.0.0.1:53102
+1534065568961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.7EBB2nqvPgy9"
+1534065576344	Marionette	INFO	Listening on port 53116
+1534065576494	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534066589941	geckodriver	INFO	geckodriver 0.19.1
+1534066589963	geckodriver	INFO	Listening on 127.0.0.1:54934
+1534066593079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.YpSY9OnRPb9K"
+1534066602203	Marionette	INFO	Listening on port 54948
+1534066602926	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534066681911	geckodriver	INFO	geckodriver 0.19.1
+1534066681929	geckodriver	INFO	Listening on 127.0.0.1:55227
+1534066684994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.QwURFFc3RV1a"
+1534066691276	Marionette	INFO	Listening on port 55240
+1534066691575	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539939198650	geckodriver	INFO	geckodriver 0.19.1
+1539939198669	geckodriver	INFO	Listening on 127.0.0.1:63809
+1539939201839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.t4FzKpbQ9es1"
+1539939213222	Marionette	INFO	Listening on port 63825
+[Child 1276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromi1539939214218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539939214333	Marionette	DEBUG	[6442450945] Frame script loaded
+1539939214337	Marionette	DEBUG	[6442450945] Frame script registered
+1539939214575	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539939215065	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539939215601	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939215766	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939222341	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939222448	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939222449	Marionette	DEBUG	[6442450945] Received DOM event unload for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939222950	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php
+1539939223080	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php
+[Parent 17452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26828, Chrome_ChildThread] WARNING:[Child 14364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539939271682	Marionette	INFO	Stopped listening on port 63825
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+OM event DOMContentLoaded for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939241517	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939247763	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939247879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939247881	Marionette	DEBUG	[6442450945] Received DOM event unload for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539939248413	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php
+1539939248524	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php
+[Parent 15948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539939257853	Marionette	INFO	Stopped listening on port 63956
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543718285170	geckodriver	INFO	geckodriver 0.19.1
+1543718285204	geckodriver	INFO	Listening on 127.0.0.1:49871
+1543718288425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.dpgl388yYav6"
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543718290868	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543718295234	Marionette	INFO	Listening on port 49883
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543718296436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>360wzws</center>
+</body>
+</html>
+
+[Child 16316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543718648554	geckodriver	INFO	geckodriver 0.19.1
+1543718648575	geckodriver	INFO	Listening on 127.0.0.1:50327
+1543718651683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.QHSY4GzWhtVM"
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543718655104	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543718660366	Marionette	INFO	Listening on port 50337
+1543718661026	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>360wzws</center>
+</body>
+</html>
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543718746268	geckodriver	INFO	geckodriver 0.19.1
+1543718746288	geckodriver	INFO	Listening on 127.0.0.1:50515
+1543718749427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.avLKZ5dL5nxD"
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543718751982	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543718757250	Marionette	INFO	Listening on port 50525
+1543718757560	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543718922740	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543720770992	geckodriver	INFO	geckodriver 0.19.1
+1543720771031	geckodriver	INFO	Listening on 127.0.0.1:52109
+1543720774241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.24e6ELkInwHs"
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543720777016	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543720781878	Marionette	INFO	Listening on port 52121
+1543720781966	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+[Parent 17600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+iyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543720824828	Marionette	INFO	Listening on port 52271
+1543720825632	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+th
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543720870724	Marionette	INFO	Listening on port 52432
+1543720870954	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543721942988	geckodriver	INFO	geckodriver 0.19.1
+1543721943006	geckodriver	INFO	Listening on 127.0.0.1:53165
+1543721946184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.EG5NTpAiAbyU"
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543721948844	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543721953454	Marionette	INFO	Listening on port 53176
+1543721953872	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+1543722058124	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 7776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543721983072	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543721987972	Marionette	INFO	Listening on port 53299
+1543721988580	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>360wzws</center>
+</body>
+</html>
+
+1543722157660	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 8052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543722030664	Marionette	INFO	Listening on port 53465
+1543722030840	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+1543722166828	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543723180289	geckodriver	INFO	geckodriver 0.19.1
+1543723180320	geckodriver	INFO	Listening on 127.0.0.1:54200
+1543723183441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.0wxmq7QGF1qi"
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543723185858	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543723189704	Marionette	INFO	Listening on port 54211
+1543723190268	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3008, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+YING~1\\AppData\\Local\\Temp\\rust_mozprofile.SIP7FrJyDkwt"
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543723209934	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+1543723214820	Marionette	INFO	Listening on port 54294
+1543723215218	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\liyingfeng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel[_Cwhiinl.d 5000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipccc/,c linher o3m4i6u
+m/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5000, Chrome_ChildThread] WARNING: pipe e
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

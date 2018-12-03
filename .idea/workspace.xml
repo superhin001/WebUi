@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="162b0b4a-14b5-4379-8642-e2f70bcd70f8" name="Default" comment="" />
+    <ignored path="AutoProject.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AutoProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="basepage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebUITest/page/basepage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goodlistpage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebUITest/page/goodlistpage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="12" column="13" selection-end-line="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addgoodstypepage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebUITest/page/addgoodstypepage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addgoodstypecase.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebUITest/testcase/addgoodstypecase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Config/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestCase/test_baidu.py" />
+        <option value="$PROJECT_DIR$/allTests.py" />
+        <option value="$PROJECT_DIR$/Lib/send_mail.py" />
+        <option value="$PROJECT_DIR$/Lib/GetTime.py" />
+        <option value="$PROJECT_DIR$/Test/testsuit/custome.py" />
+        <option value="$PROJECT_DIR$/Test/testsuit/all_start.py" />
+        <option value="$PROJECT_DIR$/Lib/db.py" />
+        <option value="$PROJECT_DIR$/ApiTest/testcase/bindingcard/test_bindingcard.py" />
+        <option value="$PROJECT_DIR$/ApiTest/testsuit/custome.py" />
+        <option value="$PROJECT_DIR$/Lib/case_log.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testsuit/allTests.py" />
+        <option value="$PROJECT_DIR$/ApiTest/testsuit/all_start.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/test_baidu.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/baidu.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/basetestcase.py" />
+        <option value="$PROJECT_DIR$/AppUITest/page/basttestcase.py" />
+        <option value="$PROJECT_DIR$/AppUITest/page/BasePage.py" />
+        <option value="$PROJECT_DIR$/AppUITest/testsuit/allTests.py" />
+        <option value="$PROJECT_DIR$/AppUITest/Page/Basetestcase.py" />
+        <option value="$PROJECT_DIR$/AppUITest/Testcase/test_KKH_login.py" />
+        <option value="$PROJECT_DIR$/AllTests.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/test_kb.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/homePage.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/BasePage.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/basetestcase.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/GoodListPage.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/LoginPage.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/11.py" />
+        <option value="$PROJECT_DIR$/AppUITest/Page/BasePage.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/ddtStudy1.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/OpenBrower.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/ddtStudy.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/test_logincase.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/BaseTestCase.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/test_goodlistcase.py" />
+        <option value="$PROJECT_DIR$/AppUITest/Testcase/Basetestcase.py" />
+        <option value="$PROJECT_DIR$/Lib/Model.py" />
+        <option value="$PROJECT_DIR$/AppUITest/Testcase/test_KKH_search.py" />
+        <option value="$PROJECT_DIR$/AppUITest/Page/KKHSearchPage.py" />
+        <option value="$PROJECT_DIR$/AppUITest/Page/basepage.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/loginpage.py" />
+        <option value="$PROJECT_DIR$/Log/log.txt" />
+        <option value="$PROJECT_DIR$/WebUITest/page/goodlistpage.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/111.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/addGoodsTypePage.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/basepage.py" />
+        <option value="$PROJECT_DIR$/Config/Model.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/addgoodstypecase.py" />
+        <option value="$PROJECT_DIR$/WebUITest/testcase/1test_logincase.py" />
+        <option value="$PROJECT_DIR$/Config/config.py" />
+        <option value="$PROJECT_DIR$/WebUITest/page/addgoodstypepage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-93" />
+    <option name="y" value="1023" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutoProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoProject20181202" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoProject20181202" type="462c0819:PsiDirectoryNode" />
+              <item name="WebUITest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python框架\AutoProject\AppUITest\Testcase" />
+      <recent name="E:\Python框架\AutoProject\WebUITest\testcase" />
+      <recent name="E:\Python框架\AutoProject\AppUITest\Page" />
+      <recent name="E:\Python框架\AutoProject\AppUITest" />
+      <recent name="E:\Python框架\AutoProject\WebUITest\TestSuit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python框架\AutoProject\Data" />
+      <recent name="E:\Python框架\AutoProject\ApiTest\testcase\bindingcard" />
+      <recent name="E:\Python框架\AutoProject\WebUITest\testcase" />
+      <recent name="E:\Python框架\AutoProject" />
+      <recent name="E:\Python框架\AutoProject\Lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.addgoodstypecase">
+    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebUITest/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebUITest/testcase/111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="addgoodstypecase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebUITest/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebUITest/testcase/addgoodstypecase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="allTests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebUITest/testsuit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebUITest/testsuit/allTests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AutoProject" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="Unittests in 1test_logincase (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AutoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebUITest/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebUITest/testcase/1test_logincase.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <module name="AutoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebUITest/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/WebUITest/testcase/1test_logincase.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in addgoodstypecase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AutoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebUITest/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebUITest/testcase/addgoodstypecase.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <module name="AutoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebUITest/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/WebUITest/testcase/addgoodstypecase.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.allTests" />
+      <item itemvalue="Python.111" />
+      <item itemvalue="Python tests.Unittests in addgoodstypecase" />
+      <item itemvalue="Python tests.Unittests in 1test_logincase (1)" />
+      <item itemvalue="Python.addgoodstypecase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.addgoodstypecase" />
+        <item itemvalue="Python tests.Unittests in 1test_logincase (1)" />
+        <item itemvalue="Python tests.Unittests in addgoodstypecase" />
+        <item itemvalue="Python.111" />
+        <item itemvalue="Python.allTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="162b0b4a-14b5-4379-8642-e2f70bcd70f8" name="Default" comment="" />
+      <created>1533641437852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533641437852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_1test_logincase_(1) - 2018.12.02 at 12h 00m 28s.xml">
+      <configuration name="Unittests in 1test_logincase (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_addgoodstypecase - 2018.12.02 at 10h 38m 46s.xml">
+      <configuration name="Unittests in addgoodstypecase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_addgoodstypecase - 2018.12.02 at 10h 42m 40s.xml">
+      <configuration name="Unittests in addgoodstypecase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_addgoodstypecase - 2018.12.02 at 10h 44m 51s.xml">
+      <configuration name="Unittests in addgoodstypecase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_addgoodstypecase - 2018.12.02 at 10h 46m 03s.xml">
+      <configuration name="Unittests in addgoodstypecase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_addgoodstypecase - 2018.12.02 at 11h 21m 47s.xml">
+      <configuration name="Unittests in addgoodstypecase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_addgoodstypecase - 2018.12.02 at 11h 41m 07s.xml">
+      <configuration name="Unittests in addgoodstypecase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_KKH_search - 2018.08.14 at 22h 30m 03s.xml">
+      <configuration name="Unittests in test_KKH_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_KKH_search - 2018.08.14 at 22h 34m 01s.xml">
+      <configuration name="Unittests in test_KKH_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_logincase - 2018.10.19 at 16h 54m 11s.xml">
+      <configuration name="Unittests in test_logincase" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-93" y="1023" width="1938" height="1048" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20338982" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32902467" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.75116277" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5360465" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32902467" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AllTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote/command.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/logging/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/HTMLTestRunner_PY3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="772" column="9" selection-start-line="764" selection-start-column="24" selection-end-line="772" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiTest/testcase/bindingcard/test_recharge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiTest/testsuit/custome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiTest/testsuit/all_start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="5" selection-start-line="7" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiTest/testcase/bindingcard/test_query_jiayouka.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/testcase/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiTest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/case.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/ddt.py" />
+    <entry file="file://$PROJECT_DIR$/WebUITest/testcase/OpenBrower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" selection-start-line="30" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/common/by.py" />
+    <entry file="file://$PROJECT_DIR$/ApiTest/testcase/bindingcard/test_consume_jiayouka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/send_mail.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/readexceldata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ApiTest/testcase/bindingcard/test_bindingcard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppUITest/Testcase/test_KKH_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppUITest/Testcase/test_kb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppUITest/Page/KKHLoginPage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppUITest/Page/kb.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/case_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/Logger.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/searchkey.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/appium/webdriver/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppUITest/Page/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppUITest/Page/KKHSearchPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppUITest/Testcase/test_KKH_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AutoProject/Lib/Logger.py" />
+    <entry file="file://$PROJECT_DIR$/AppUITest/Testcase/Basetestcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="297" column="43" selection-start-line="293" selection-end-line="294" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/GetTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" selection-start-line="5" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/testcase/BaseTestCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/page/homePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="51" column="59" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/testcase/1test_logincase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/page/loginpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/page/goodlistpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="13" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/testsuit/allTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/testcase/test_goodlistcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/page/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/page/addgoodstypepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUITest/testcase/addgoodstypecase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

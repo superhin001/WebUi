@@ -1,0 +1,98 @@
+1539158029529	geckodriver	INFO	geckodriver 0.19.1
+1539158029569	geckodriver	INFO	Listening on 127.0.0.1:49724
+1539158032650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.YZHNWd9owTDK"
+1539158038519	geckodriver	INFO	geckodriver 0.19.1
+1539158038539	geckodriver	INFO	Listening on 127.0.0.1:49754
+1539158042315	geckodriver	INFO	geckodriver 0.19.1
+1539158042334	geckodriver	INFO	Listening on 127.0.0.1:49769
+1539158046184	geckodriver	INFO	geckodriver 0.19.1
+1539158046225	geckodriver	INFO	Listening on 127.0.0.1:49778
+1539158188481	geckodriver	INFO	geckodriver 0.19.1
+1539158188501	geckodriver	INFO	Listening on 127.0.0.1:50002
+1539158192262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.n6MfeEXDgTPB"
+[Child 15504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15504,1539158203812	Marionette	INFO	Listening on port 50023
+1539158203953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539158204075	Marionette	DEBUG	[6442450945] Frame script loaded
+1539158204077	Marionette	DEBUG	[6442450945] Frame script registered
+1539158204273	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539158204945	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539158225772	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539158226107	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+JavaScript error: http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login, line 75: ReferenceError: Validator is not defined
+1539158232408	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539158232639	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539158232640	Marionette	DEBUG	[6442450945] Received DOM event unload for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539158232716	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://39.104.14.232/ecshop/wwwroot/admin/index.php
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+1539158236067	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://39.104.14.232/ecshop/wwwroot/admin/index.php
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+1539158241573	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539158241869	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539158245939	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://39.104.14.232/ecshop/wwwroot/admin/goods.php?act=list
+1539158246337	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://39.104.14.232/ecshop/wwwroot/admin/goods.php?act=list
+1539158246338	Marionette	DEBUG	[6442450945] Received DOM event unload for http://39.104.14.232/ecshop/wwwroot/admin/goods.php?act=list
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/goods.php?act=add, line 3791: unreachable code after return statement
+1539158248275	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://39.104.14.232/ecshop/wwwroot/admin/goods.php?act=add
+1539158248852	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://39.104.14.232/ecshop/wwwroot/admin/goods.php?act=add
+1539158249615	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 16308, Chrome_ChildThread] WARNING: pip[Child 11820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539158297283	Marionette	INFO	Stopped listening on port 50023
+[GPU 2544, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539158333996	geckodriver	INFO	geckodriver 0.19.1
+1539158334014	geckodriver	INFO	Listening on 127.0.0.1:50352
+1539158337104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.OCIaGPw1pFQx"
+1539158345655	Marionette	INFO	Listening on port 50362
+1539158346198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539158346315	Marionette	DEBUG	[4294967297] Frame script loaded
+1539158346318	Marionette	DEBUG	[4294967297] Frame script registered
+1539158346595	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539158347048	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539158347420	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539158348201	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539158354370	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539158354572	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539158354576	Marionette	DEBUG	[4294967297] Received DOM event unload for http://39.104.14.232/ecshop/wwwroot/admin/privilege.php?act=login
+1539158354620	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://39.104.14.232/ecshop/wwwroot/admin/index.php
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/js/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+1539158357355	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://39.104.14.232/ecshop/wwwroot/admin/index.php
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+1539158362710	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539158363007	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539158368151	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://39.104.14.232/ecshop/wwwroot/admin/goods.php?act=list
+1539158373352	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/js/jquery.js, line 3579: unreachable code after return statement
+JavaScript warning: http://39.104.14.232/ecshop/wwwroot/admin/goods.php?act=add, line 3791: unreachable code after return statement
+1539158420072	Marionette	INFO	Stopped listening on port 50362
+[GPU 1563
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+will be ignored for this session
+1539158419419	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+1539158419728	Marionette	DEBUG	[6442450945] Frame script loaded
+1539158421804	geckodriver	INFO	geckodriver 0.19.1
+1539158421824	geckodriver	INFO	Listening on 127.0.0.1:50603
+1539158425123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\LIYING~1\\AppData\\Local\\Temp\\rust_mozprofile.WzXqIMfNM4wd"
